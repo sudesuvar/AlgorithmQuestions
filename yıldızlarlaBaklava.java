@@ -13,7 +13,7 @@ public class yıldızlarlaBaklava {
             System.out.println();
         }
 
-        /*for (int i = x - 2; i >= 0; i--) {
+        for (int i = x - 2; i >= 0; i--) {
             for (int j = i; j < x - 1; j++) {
                 System.out.print(" ");
             }
@@ -23,7 +23,7 @@ public class yıldızlarlaBaklava {
             }
 
             System.out.println();
-        }*/
+        }
     }
 
 
